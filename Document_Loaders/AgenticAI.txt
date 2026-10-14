@@ -1,0 +1,8 @@
+Learn agentic AI step by step with this beginner-friendly guide. Understand AI agents, LLMs, 
+workflows, tools, and how to build your first simple agent.
+
+Imagine an AI that does more than answer questions. It can help you complete a task. 
+For example, instead of only telling you what to pack for a trip, it could help build a checklist, 
+gather destination details, and organize the plan step by step. That is the basic idea behind agentic AI.
+
+Non-medium member read here, If you have been hearing terms like AI agents, LLM vs AI agents, or agentic AI workflow and feeling a little lost, don’t worry. This guide is written for beginners. We will keep it simple, practical, and focused on what you actually need to know to get started.
