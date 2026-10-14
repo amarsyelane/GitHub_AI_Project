@@ -1,0 +1,15 @@
+from langchain_community.tools import DuckDuckGoSearchRun
+from langchain_cohere import ChatCohere
+from dotenv import load_dotenv
+
+load_dotenv()
+
+llm = ChatCohere(model="command-a-03-2025", temperature=0.7)
+
+search = DuckDuckGoSearchRun()
+
+result = search.invoke("Top news about AI in the last 24 hours")
+
+print("🤖🤖Search Result:", result)
+
+# References: https://docs.langchain.com/oss/python/integrations/tools/ddg
